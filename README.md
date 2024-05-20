@@ -1,8 +1,7 @@
 # 个人简介
 
 我是一枚全栈开发者
-
-
+邮箱: hain.xiao@outlook.com
 ## 技术栈
 ### 前端
 - HTML
